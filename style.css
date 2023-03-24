@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+}
+  .container-m {
+    margin-top: 80px;
+}
+.rororo{
+    text-align: center;
+    width:90%;
+    margin: 0 auto;
+  max-width: 700px;
+}
+.moji{
+    text-align: center;
+}
+.pd{
+    padding: 10px;
+}
+h5{
+    line-height:40px;
+}
+.pc_br {
+     display: block
+}
+@media screen and (max-width: 480px){
+    .pc_br {
+         display: none;
+    }
+}
+h3{
+    font-weight: bold;
+}
+h2{
+    font-weight: bold;
+}
